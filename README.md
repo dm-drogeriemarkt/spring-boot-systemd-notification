@@ -1,5 +1,7 @@
 # Spring Boot systemd notification
 
+SystemdNotificationService that notifies systemd after your application context is ready.
+
 ## Usage
 
 Declare dependency in a Spring Boot service:
