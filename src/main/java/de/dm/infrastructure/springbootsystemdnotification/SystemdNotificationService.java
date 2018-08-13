@@ -32,7 +32,7 @@ public class SystemdNotificationService implements ApplicationListener<Applicati
 
             final ConfigurableApplicationContext context = applicationReadyEvent.getApplicationContext();
 
-            String socketName = System.getProperty(NOTIFY_SOCKET);
+            String socketName = System.getenv(NOTIFY_SOCKET) != null ? System.getenv(NOTIFY_SOCKET) : System.getProperty(NOTIFY_SOCKET);
 
             if (socketName != null) {
 
