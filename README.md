@@ -41,7 +41,9 @@ Sample systemd config:
   want to use the default temp directory
 * Spring Boot autoconfiguration or bean declaration for SystemdNotificationService
 
-Copyright (c) 2017 dm-drogerie markt GmbH & Co. KG, https://dm.de
+## License
+
+Copyright (c) 2018 dm-drogerie markt GmbH & Co. KG, https://dm.de
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
