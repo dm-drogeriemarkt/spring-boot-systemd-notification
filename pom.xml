@@ -5,7 +5,7 @@
 
     <groupId>de.dm.infrastructure</groupId>
     <artifactId>spring-boot-systemd-notification</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>spring-boot-systemd-notification</name>
@@ -21,8 +21,8 @@
 
     <developers>
         <developer>
-            <organization>dm-drogerie markt GmbH &amp; Co. KG</organization>
-            <organizationUrl>https://dm.de</organizationUrl>
+            <organization>dmTECH GmbH</organization>
+            <organizationUrl>https://www.dmtech.de</organizationUrl>
             <name>Fabian Buch</name>
             <email>fabian.buch@dm.de</email>
         </developer>
