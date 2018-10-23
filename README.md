@@ -1,6 +1,8 @@
 # Spring Boot systemd notification
 
-SystemdNotificationService that notifies systemd after your application context is ready.
+> SystemdNotificationService that notifies systemd after your application context is ready.
+
+[![Build Status](https://travis-ci.org/dm-drogeriemarkt/spring-boot-systemd-notification.svg?branch=master)](https://travis-ci.org/dm-drogeriemarkt/spring-boot-systemd-notification)
 
 ## Usage
 
