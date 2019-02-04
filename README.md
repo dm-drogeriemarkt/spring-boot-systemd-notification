@@ -2,6 +2,7 @@
 
 > SystemdNotificationService that notifies systemd after your application context is ready.
 
+[<img src="https://opensourcelogos.aws.dmtech.cloud/dmTECH_opensource_logo.svg" height="20" width="130">](https://dmtech.de/)
 [![Build Status](https://travis-ci.org/dm-drogeriemarkt/spring-boot-systemd-notification.svg?branch=master)](https://travis-ci.org/dm-drogeriemarkt/spring-boot-systemd-notification)
 
 ## Usage
@@ -11,7 +12,7 @@ Declare dependency in a Spring Boot service:
     <dependency>
         <groupId>de.dm.infrastructure</groupId>
         <artifactId>spring-boot-systemd-notification</artifactId>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </dependency>
 
 If Autoconfiguration is enabled and property systemd.notification.enabled is set to true this
