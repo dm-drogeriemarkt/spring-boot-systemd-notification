@@ -12,7 +12,7 @@ Declare dependency in a Spring Boot service:
     <dependency>
         <groupId>de.dm.infrastructure</groupId>
         <artifactId>spring-boot-systemd-notification</artifactId>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
     </dependency>
 
 If Autoconfiguration is enabled and property systemd.notification.enabled is set to true this
