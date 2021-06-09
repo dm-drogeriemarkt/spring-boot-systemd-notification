@@ -1,3 +1,6 @@
+:warning: | This repository is not being maintained anymore.
+:---: | :---
+
 # Spring Boot systemd notification
 
 > SystemdNotificationService that notifies systemd after your application context is ready.
